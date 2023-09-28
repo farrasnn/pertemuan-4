@@ -9,6 +9,7 @@ h1{
 body{
     margin: 0px 0px 0px 0px;
     font-family: Roboto;
+    font-size: 14pt;
     background-color: #162f29;
     color: #e7e7e5;
 
@@ -58,7 +59,7 @@ a :hover{
     color: #db4444;
 }
 form{
-    
+
 }
 footer{
     margin-top: 20px;
